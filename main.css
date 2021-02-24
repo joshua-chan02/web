@@ -1,0 +1,24 @@
+*{
+    color: gold ; /* universal font color: tan */
+}
+
+*{
+    background-color: saddlebrown ; /* entire background color: gold */
+}
+
+h2{
+    font-family: "Brush Script MT" ; /* makes the font of <h2> Lucia Handwriting */
+    text-align: center ; /* aligns text in the center */
+}
+
+p{
+    font-family: "Papyrus" ; /* makes the font of <p> Lucia Handwriting */
+}
+
+ul{
+    font-family: "Copperplate" ; /* makes the font of lists Lucia Handwriting */
+}
+
+h8{
+    font-style: italic ; /* makes the font italicized */
+}
